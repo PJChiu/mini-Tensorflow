@@ -1,2 +1,2 @@
 # mini-Tensorflow
- a Handcrafted Deep Learning Framework mimicing the pipeline of tensorflow by using computation graph
+ A Handcrafted Deep Learning Framework mimicing the pipeline of tensorflow based on computational graph
